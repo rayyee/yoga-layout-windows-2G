@@ -4,15 +4,15 @@
 
 Prebuilt JS version of the yoga layout flexbox engine.
 
-## Usage with `@react-pdf/core`
+## Usage with `@react-pdf/renderer`
 
 `package.json`
 
 ```
 {
   "dependencies": {
-    "yoga-layout": "github:naminho/yoga-layout-windows",
-    "@react-pdf/core": "latest"
+    "yoga-layout-prebuilt": "github:rayyee/yoga-layout-windows-2G",
+    "@react-pdf/renderer": "latest"
   }
 }
 ```
