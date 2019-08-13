@@ -1,5 +1,5 @@
 {
-  "name": "yoga-layout",
+  "name": "yoga-layout-prebuilt",
   "version": "1.9.3",
   "description": "Prebuilt yoga-layout package for the browser.",
   "browser": "./dist/entry-browser",
@@ -9,12 +9,12 @@
   "scripts": {},
   "license": "MIT",
   "main": "./dist/entry-browser",
-  "homepage": "https://github.com/naminho/yoga-layout-windows",
+  "homepage": "https://github.com/rayyee/yoga-layout-windows-2G",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/naminho/yoga-layout-windows.git"
+    "url": "git+ssh://git@github.com/rayyee/yoga-layout-windows-2G.git"
   },
   "bugs": {
-    "url": "https://github.com/naminho/yoga-layout-windows/issues"
+    "url": "https://github.com/rayyee/yoga-layout-windows-2G/issues"
   }
 }
